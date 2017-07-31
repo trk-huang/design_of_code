@@ -1,3 +1,6 @@
-# My Awesome Book
+# 设计模式
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+引用《大话设计模式》的序：
+
+本书讲述程序是如何设计的方法集。了解优秀软件设计的演变过程比学习优秀设计本身更有价值，因为设计的演变过程中蕴藏着大智慧。
+
